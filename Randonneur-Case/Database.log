@@ -1,0 +1,96 @@
+--------------------------------------------------------------------------------
+2016-12-08 23:02:41 DATABASE ACCESS ERROR
+
+1) Database object's method Open reports the following: Open failed
+
+2) The method call in your program is as follows:
+
+	Open("Data Source=(LocalDB)\v11.0;AttachDbFilename=|DataDirectory|\RandonneurDatabase.mdf;Integrated Security=True;Connect Timeout=30")
+
+3) System.Data.SqlClient.SqlException message is as follows: 
+
+	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 50 - Local Database Runtime error occurred. Cannot create an automatic instance. See the Windows Application event log for error details.
+)
+
+	DBMS native error code: 0
+
+--------------------------------------------------------------------------------
+2016-12-08 23:02:42 DATABASE ACCESS ERROR
+
+1) Database object's method Open reports the following: Open failed
+
+2) The method call in your program is as follows:
+
+	Open("Data Source=(LocalDB)\v11.0;AttachDbFilename=|DataDirectory|\RandonneurDatabase.mdf;Integrated Security=True;Connect Timeout=30")
+
+3) System.Data.SqlClient.SqlException message is as follows: 
+
+	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 50 - Local Database Runtime error occurred. Cannot create an automatic instance. See the Windows Application event log for error details.
+)
+
+	DBMS native error code: 0
+
+--------------------------------------------------------------------------------
+2016-12-08 23:04:47 DATABASE ACCESS ERROR
+
+1) Database object's method Open reports the following: Open failed
+
+2) The method call in your program is as follows:
+
+	Open("Data Source=(LocalDB)\v11.0;AttachDbFilename=|DataDirectory|\RandonneurDatabase.mdf;Integrated Security=True;Connect Timeout=30")
+
+3) System.Data.SqlClient.SqlException message is as follows: 
+
+	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 50 - Local Database Runtime error occurred. Cannot create an automatic instance. See the Windows Application event log for error details.
+)
+
+	DBMS native error code: 0
+
+--------------------------------------------------------------------------------
+2016-12-08 23:11:14 DATABASE ACCESS ERROR
+
+1) Database object's method Open reports the following: Open failed
+
+2) The method call in your program is as follows:
+
+	Open("Data Source=(LocalDB)\v11.0;AttachDbFilename=|DataDirectory|\RandonneurDatabase.mdf;Integrated Security=True;Connect Timeout=30")
+
+3) System.Data.SqlClient.SqlException message is as follows: 
+
+	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 50 - Local Database Runtime error occurred. Cannot create an automatic instance. See the Windows Application event log for error details.
+)
+
+	DBMS native error code: 0
+
+--------------------------------------------------------------------------------
+2016-12-08 23:11:44 DATABASE ACCESS ERROR
+
+1) Database object's method Open reports the following: Open failed
+
+2) The method call in your program is as follows:
+
+	Open("Data Source=(LocalDB)\v11.0;AttachDbFilename=|DataDirectory|\RandonneurDatabase.mdf;Integrated Security=True;Connect Timeout=30")
+
+3) System.Data.SqlClient.SqlException message is as follows: 
+
+	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 50 - Local Database Runtime error occurred. Cannot create an automatic instance. See the Windows Application event log for error details.
+)
+
+	DBMS native error code: 0
+
+--------------------------------------------------------------------------------
+2016-12-08 23:11:44 DATABASE ACCESS ERROR
+
+1) Database object's method Open reports the following: Open failed
+
+2) The method call in your program is as follows:
+
+	Open("Data Source=(LocalDB)\v11.0;AttachDbFilename=|DataDirectory|\RandonneurDatabase.mdf;Integrated Security=True;Connect Timeout=30")
+
+3) System.Data.SqlClient.SqlException message is as follows: 
+
+	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 50 - Local Database Runtime error occurred. Cannot create an automatic instance. See the Windows Application event log for error details.
+)
+
+	DBMS native error code: 0
+
